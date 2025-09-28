@@ -1,5 +1,0 @@
-pyspark
-streamlit
-textblob
-requests
-pandas
