@@ -19,7 +19,7 @@ import time
 st.title("Real-Time News Sentiment Dashboard")
 
 # Refresh interval (seconds)
-REFRESH_INTERVAL = 30
+REFRESH_INTERVAL = 10
 
 # GNews API Key
 API_KEY = "API_KEY"  # <-- Replace with your key
